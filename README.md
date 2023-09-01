@@ -17,3 +17,12 @@
 ![](https://github-profile-trophy.vercel.app/?username=nglcobdai&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  
+  <a href="https://github.com/nglcobdai">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nglcobdai&theme=dark" />
+  </a>
+  <a href="https://github.com/nglcobdai">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nglcobdai&theme=dark" />
+  </a>
+</details>
