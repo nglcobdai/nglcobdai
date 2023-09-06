@@ -10,19 +10,15 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nglcobdai&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nglcobdai&theme=dark&hide_border=false)<br/>
+|![](https://github-readme-stats.vercel.app/api?username=nglcobdai&theme=dark&hide_border=false&include_all_commits=true&count_private=false)|![](https://github-readme-streak-stats.herokuapp.com/?user=nglcobdai&theme=dark&hide_border=false)|
+|:--:|:--:|
+
+<div align="center"> 
+    <a href="https://github.com/nglcobdai">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nglcobdai&theme=dark" />
+    </a>
+</div>
+
 
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nglcobdai&theme=dark&no-frame=false&no-bg=false&margin-w=4)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<p align="center">
-  
-  <a href="https://github.com/nglcobdai">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nglcobdai&theme=dark" />
-  </a>
-  <a href="https://github.com/nglcobdai">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nglcobdai&theme=dark" />
-  </a>
-</details>
