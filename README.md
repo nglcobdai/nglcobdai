@@ -56,9 +56,8 @@
   <h1 align="center">📊 GitHub Stats 📊</h1>
 
   <div style="width: 100%; display: flex; justify-content: center;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nglcobdai&no-frame=true&theme=blueberry" alt="Profile Details" style="margin: 10px; width: 100%;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nglcobdai&hide_border=true&theme=blueberry" alt="GitHub Streak" style="margin: 10px; width: 100%;">
   </div>
-
   <table align="center">
     <tr>
       <td style="padding: 10px;">
@@ -71,7 +70,7 @@
   </table>
 
   <div style="width: 100%; display: flex; justify-content: center;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nglcobdai&hide_border=true&theme=blueberry" alt="GitHub Streak" style="margin: 10px; width: 100%;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nglcobdai&no-frame=true&theme=blueberry" alt="Profile Details" style="margin: 10px; width: 100%;">
   </div>
 </div>
 
