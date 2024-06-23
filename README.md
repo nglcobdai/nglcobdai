@@ -1,24 +1,68 @@
-# 💫 About Me:
-🎓 I'm currently learning about Deep Learning<br>💻 I'm currently working as a Developer
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column; margin-top: 20px; margin-bottom: 20px;">
+  <h1>💫 About Me 💫</h1>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
-
-# 📊 GitHub Stats:
-|![](https://github-readme-stats.vercel.app/api?username=nglcobdai&theme=dark&hide_border=false&include_all_commits=true&count_private=false)|![](https://github-readme-streak-stats.herokuapp.com/?user=nglcobdai&theme=dark&hide_border=false)|
-|:--:|:--:|
-
-<div align="center"> 
-    <a href="https://github.com/nglcobdai">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nglcobdai&theme=dark" />
-    </a>
+  <p align="center">
+    💻 I'm currently working as a Developer<br>
+    🎓 I'm currently studying Computer Science<br>
+  </p>
 </div>
 
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column; margin-top: 20px; margin-bottom: 20px;">
+  <h1 align="center">🛠 Tech Stack 🛠</h1>
 
-# 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nglcobdai&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+  <p align="center" style="margin: 0px 0;">
+    <!-- Programming Languages -->
+    <img src="https://img.shields.io/badge/Python-3766AB?logo=Python&logoColor=white" style="margin: 0 10px;"/>
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=TypeScript&logoColor=white" style="margin: 0 10px;"/>
+    <img src="https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white" style="margin: 0 10px;"/>
+    <img src="https://img.shields.io/badge/Dart-0175C2?logo=Dart&logoColor=white" style="margin: 0 10px;"/>
+  </p>
+  <p align="center" style="margin: 0px 0;">
+    <!-- Frameworks and Libraries -->
+    <img src="https://img.shields.io/badge/FastAPI-005571?logo=FastAPI&logoColor=white" style="margin: 0 10px;"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white" style="margin: 0 10px;"/>
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=Bootstrap&logoColor=white" style="margin: 0 10px;"/>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=PyTorch&logoColor=white" style="margin: 0 10px;"/>
+    <img src="https://img.shields.io/badge/pytest-0A9EDC?logo=pytest&logoColor=white" style="margin: 0 10px;"/>
+    <img src="https://img.shields.io/badge/Chakra%20UI-319795?logo=Chakra%20UI&logoColor=white" style="margin: 0 10px;"/>
+    <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jQuery&logoColor=white" style="margin: 0 10px;"/>
+  </p>
+  <p align="center" style="margin: 0px 0;">
+    <!-- Databases -->
+    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white" style="margin: 0 10px;"/>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?logo=MongoDB&logoColor=white" style="margin: 0 10px;"/>
+  </p>
+  <p align="center" style="margin: 0px 0;">
+    <!-- Development Tools -->
+    <img src="https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white" style="margin: 0 10px;"/>
+    <img src="https://img.shields.io/badge/docker--compose-2496ED?logo=docker&logoColor=white" style="margin: 0 10px;"/>
+    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=GitHub%20Actions&logoColor=white" style="margin: 0 10px;"/>
+    <img src="https://img.shields.io/badge/poetry-5037E9?logo=python&logoColor=white" style="margin: 0 10px;"/>
+    <img src="https://img.shields.io/badge/jupyter-FA9552?logo=jupyter&logoColor=white" style="margin: 0 10px;"/>
+  </p>
+  <p align="center" style="margin: 0px 0;">
+    <!-- Miscellaneous Tools -->
+    <img src="https://img.shields.io/badge/Notion-000000?logo=Notion&logoColor=white" style="margin: 0 10px;"/>
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=Visual%20Studio%20Code&logoColor=white" style="margin: 0 10px;"/>
+    <img src="https://img.shields.io/badge/fitbit-00B0B9?logo=fitbit&logoColor=white" style="margin: 0 10px;"/>
+    <img src="https://img.shields.io/badge/huggingface-FFD166?logo=huggingface&logoColor=white" style="margin: 0 10px;"/>
+  </p>
+</div>
+
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column; margin-top: 20px; margin-bottom: 20px;">
+  <h1 align="center">📊 GitHub Stats 📊</h1>
+
+|                                                                                                                                                   |                                                                                                                                 |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------: |
+| ![](https://github-readme-stats.vercel.app/api?username=nglcobdai&hide_border=false&include_all_commits=true&count_private=false&theme=blueberry) | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nglcobdai&no-frame=true&theme=blueberry) |
+|                    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nglcobdai&layout=donut&theme=blueberry)                     |                      ![](https://github-readme-streak-stats.herokuapp.com/?user=nglcobdai&theme=blueberry)                      |
+|                                                                                                                                                   |                                                                                                                                 |
+
+<div>
+
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column; margin-top: 20px; margin-bottom: 20px;">
+  <h1 align="center">🏆 GitHub Trophies 🏆</h1>
+
+![](https://github-profile-trophy.vercel.app/?username=nglcobdai&theme=nord&no-frame=true&no-bg=false&margin-w=10&column=3&row=3&margin-h=10)
+
+</div>
