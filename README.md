@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white" style="margin: 0 10px;"/>
     <img src="https://img.shields.io/badge/Dart-0175C2?logo=Dart&logoColor=white" style="margin: 0 10px;"/>
   </p>
-  
+
   <p align="center" style="margin: 0;">
     <!-- Frameworks and Libraries -->
     <img src="https://img.shields.io/badge/FastAPI-005571?logo=FastAPI&logoColor=white" style="margin: 0 10px;"/>
@@ -27,22 +27,22 @@
     <img src="https://img.shields.io/badge/Chakra%20UI-319795?logo=Chakra%20UI&logoColor=white" style="margin: 0 10px;"/>
     <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jQuery&logoColor=white" style="margin: 0 10px;"/>
   </p>
-  
+
   <p align="center" style="margin: 0;">
     <!-- Databases -->
     <img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white" style="margin: 0 10px;"/>
     <img src="https://img.shields.io/badge/MongoDB-47A248?logo=MongoDB&logoColor=white" style="margin: 0 10px;"/>
   </p>
-  
+
   <p align="center" style="margin: 0;">
     <!-- Development Tools -->
     <img src="https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white" style="margin: 0 10px;"/>
     <img src="https://img.shields.io/badge/docker--compose-2496ED?logo=docker&logoColor=white" style="margin: 0 10px;"/>
-    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=GitHub%20Actions&logoColor=white" style="margin: 0 10px;"/>
+    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=GitHub&logoColor=white" style="margin: 0 10px;"/>
     <img src="https://img.shields.io/badge/poetry-5037E9?logo=python&logoColor=white" style="margin: 0 10px;"/>
     <img src="https://img.shields.io/badge/jupyter-FA9552?logo=jupyter&logoColor=white" style="margin: 0 10px;"/>
   </p>
-  
+
   <p align="center" style="margin: 0;">
     <!-- Miscellaneous Tools -->
     <img src="https://img.shields.io/badge/Notion-000000?logo=Notion&logoColor=white" style="margin: 0 10px;"/>
@@ -55,24 +55,24 @@
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column; margin: 20px 0;">
   <h1 align="center">📊 GitHub Stats 📊</h1>
 
-  <table style="width: 100%; table-layout: fixed;">
+  <div style="width: 100%; display: flex; justify-content: center;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nglcobdai&no-frame=true&theme=blueberry" alt="Profile Details" style="margin: 10px; width: 100%;">
+  </div>
+
+  <table align="center">
     <tr>
       <td style="padding: 10px;">
         <img src="https://github-readme-stats.vercel.app/api?username=nglcobdai&hide_border=true&include_all_commits=true&count_private=false&theme=blueberry" alt="GitHub Stats" style="width: 100%;">
       </td>
       <td style="padding: 10px;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nglcobdai&no-frame=true&theme=blueberry" alt="Profile Details" style="width: 100%;">
-      </td>
-    </tr>
-    <tr>
-      <td style="padding: 10px;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nglcobdai&layout=donut&hide_border=true&theme=blueberry" alt="Top Languages" style="width: 100%;">
-      </td>
-      <td style="padding: 10px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nglcobdai&hide_border=true&theme=blueberry" alt="GitHub Streak" style="width: 100%;">
       </td>
     </tr>
   </table>
+
+  <div style="width: 100%; display: flex; justify-content: center;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nglcobdai&hide_border=true&theme=blueberry" alt="GitHub Streak" style="margin: 10px; width: 100%;">
+  </div>
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column; margin: 20px;">
