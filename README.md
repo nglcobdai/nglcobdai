@@ -61,10 +61,10 @@
 
   <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; width: 100%;">
     <div style="flex: 1; margin: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=nglcobdai&hide_border=true&include_all_commits=true&count_private=false&theme=blueberry" alt="GitHub Stats" style="width: 100%;">
+      <img src="https://github-readme-stats.vercel.app/api?username=nglcobdai&hide_border=true&include_all_commits=true&count_private=false&theme=blueberry" alt="GitHub Stats">
     </div>
     <div style="flex: 1; margin: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nglcobdai&layout=donut&hide_border=true&theme=blueberry" alt="Top Languages" style="width: 100%;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nglcobdai&layout=donut&hide_border=true&theme=blueberry" alt="Top Languages">
     </div>
   </div>
 
@@ -75,5 +75,5 @@
 
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column; margin-top: 20px; margin-bottom: 20px;">
   <h1 align="center">🏆 GitHub Trophies 🏆</h1>
-  <img src="https://github-profile-trophy.vercel.app/?username=nglcobdai&theme=nord&no-frame=true&no-bg=false&margin-w=10&column=3&row=3&margin-h=10" alt="GitHub Trophies" style="width: 100%; max-width: 400px; margin: 10px;">
+  <img src="https://github-profile-trophy.vercel.app/?username=nglcobdai&theme=nord&no-frame=true&no-bg=false&margin-w=10&column=3&row=3&margin-h=10" alt="GitHub Trophies" style="margin: 10px;">
 </div>
