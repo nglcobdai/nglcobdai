@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column; margin-top: 20px; margin-bottom: 20px;">
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column; margin: 20px 0;">
   <h1 align="center">💫 About Me 💫</h1>
   <p align="center">
     💻 I'm currently working as a Developer<br>
@@ -6,7 +6,7 @@
   </p>
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column; margin-top: 20px; margin-bottom: 20px;">
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column; margin: 20px 0;">
   <h1 align="center">🛠 Tech Stack 🛠</h1>
 
   <p align="center" style="margin: 0;">
@@ -52,28 +52,32 @@
   </p>
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column; margin-top: 20px; margin-bottom: 20px;">
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column; margin: 20px 0;">
   <h1 align="center">📊 GitHub Stats 📊</h1>
 
-  <div style="width: 100%;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nglcobdai&hide_border=true&theme=blueberry" alt="GitHub Streak" style="width: 100%;">
-  </div>
-
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; width: 100%;">
-    <div style="flex: 1; margin: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=nglcobdai&hide_border=true&include_all_commits=true&count_private=false&theme=blueberry" alt="GitHub Stats">
-    </div>
-    <div style="flex: 1; margin: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nglcobdai&layout=donut&hide_border=true&theme=blueberry" alt="Top Languages">
-    </div>
-  </div>
-
-  <div style="width: 100%;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nglcobdai&no-frame=true&theme=blueberry" alt="Profile Details" style="width: 100%;">
-  </div>
+  <table style="width: 100%; table-layout: fixed;">
+    <tr>
+      <td style="padding: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=nglcobdai&hide_border=true&include_all_commits=true&count_private=false&theme=blueberry" alt="GitHub Stats" style="width: 100%;">
+      </td>
+      <td style="padding: 10px;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nglcobdai&no-frame=true&theme=blueberry" alt="Profile Details" style="width: 100%;">
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nglcobdai&layout=donut&hide_border=true&theme=blueberry" alt="Top Languages" style="width: 100%;">
+      </td>
+      <td style="padding: 10px;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nglcobdai&hide_border=true&theme=blueberry" alt="GitHub Streak" style="width: 100%;">
+      </td>
+    </tr>
+  </table>
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column; margin-top: 20px; margin-bottom: 20px;">
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column; margin: 20px;">
   <h1 align="center">🏆 GitHub Trophies 🏆</h1>
-  <img src="https://github-profile-trophy.vercel.app/?username=nglcobdai&theme=nord&no-frame=true&no-bg=false&margin-w=10&column=3&row=3&margin-h=10" alt="GitHub Trophies" style="margin: 10px;">
+  <div style="width: 80%; display: flex; justify-content: center;">
+    <img src="https://github-profile-trophy.vercel.app/?username=nglcobdai&theme=nord&no-frame=true&no-bg=false&margin-w=10&column=3&row=3&margin-h=10" alt="GitHub Trophies" style="margin: 10px; width: 100%;">
+  </div>
 </div>
