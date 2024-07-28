@@ -23,7 +23,6 @@
     <img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white" style="margin: 0 10px;"/>
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=Bootstrap&logoColor=white" style="margin: 0 10px;"/>
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=PyTorch&logoColor=white" style="margin: 0 10px;"/>
-    <img src="https://img.shields.io/badge/pytest-0A9EDC?logo=pytest&logoColor=white" style="margin: 0 10px;"/>
     <img src="https://img.shields.io/badge/Chakra%20UI-319795?logo=Chakra%20UI&logoColor=white" style="margin: 0 10px;"/>
     <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jQuery&logoColor=white" style="margin: 0 10px;"/>
   </p>
@@ -39,8 +38,6 @@
     <img src="https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white" style="margin: 0 10px;"/>
     <img src="https://img.shields.io/badge/docker--compose-2496ED?logo=docker&logoColor=white" style="margin: 0 10px;"/>
     <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=GitHub&logoColor=white" style="margin: 0 10px;"/>
-    <img src="https://img.shields.io/badge/poetry-5037E9?logo=python&logoColor=white" style="margin: 0 10px;"/>
-    <img src="https://img.shields.io/badge/jupyter-FA9552?logo=jupyter&logoColor=white" style="margin: 0 10px;"/>
   </p>
 
   <p align="center" style="margin: 0;">
